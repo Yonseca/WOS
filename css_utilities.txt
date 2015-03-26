@@ -1,0 +1,2 @@
+Gradient###
+background: linear-gradient(direction, color-stop1, color-stop2, ...);
